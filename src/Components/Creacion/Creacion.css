@@ -1,0 +1,43 @@
+.container.Creacion {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+  }
+  
+  .creacionComponents {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .creacionVista img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .creacionDetalles {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .tituloCreacion {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .textoCreacion {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .botonesCreacion {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .botonCreacion {
+    margin: 0 10px;
+  }
+  
